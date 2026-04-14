@@ -1,4 +1,4 @@
-pica 
+
 SO – citlivosť na svetlo
 Clona (f) – hĺbka ostrosti / otvor objektívu
 Čas uzávierky – dĺžka expozície
